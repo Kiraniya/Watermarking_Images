@@ -1,0 +1,14 @@
+Step 1:- Download matlab R2021b editor.
+
+Step 2:- Now copy all the provided source code and functions and paste it in the current directory of matlab editor
+         along with sample picture and sample word document(watermark).
+
+Step 3:- Open the source code in matlab.
+
+Step 4:- Now run the source code.
+
+Step 5:- input key
+
+Step 6:- Select cover image and the watermark
+
+(Evaluation metrics and extracted watermark will be displayed in the command window)
